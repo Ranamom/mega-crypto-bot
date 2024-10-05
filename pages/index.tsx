@@ -4,20 +4,19 @@ const Home: NextPage = () => {
   return (
     <div className="flex flex-col w-full h-full">
       <div className="mx-auto mt-9 lg:max-w-[800px] md:max-w-[600px] px-3">
-        <h1 className=" text-4xl">Mega Crypto Bot</h1>
+        <h1 className=" text-4xl">Mega Crypto</h1>
         <div className="mt-8">
           Add to Telegram:{" "}
           <a
-            href="https://t.me/xava_coin_bot"
+            href="https://t.me/Akims007"
             target="_blank"
             className="underline"
           >
-            t.me/xava_coin_bot
+            https://t.me/Akims007
           </a>
           <br />
-          Author: <a href="https://kienngo.me" target="_blank" className="underline">kienngo.me</a><br/><br/>
-          Description: This bot utilizes the Congecko API and does a couple of
-          things related to crypto such as:
+          Author: <a href="hhttps://t.me/Akims007" target="_blank" className="Star">kienngo.me</a><br/><br/>
+          Description: TKing Of Kings Is Watching:
           <br />
           - Get price of a coin
           <br />- Compare the stats of 2 coins
