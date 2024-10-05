@@ -15,7 +15,7 @@ const Home: NextPage = () => {
             https://t.me/Akims007
           </a>
           <br />
-          Author: <a href="hhttps://t.me/Akims007" target="_blank" className="Star">kienngo.me</a><br/><br/>
+          Author: <a href="hhttps://t.me/Akims007" target="_blank" className="underline">kienngo.me</a><br/><br/>
           Description: TKing Of Kings Is Watching:
           <br />
           - Get price of a coin
